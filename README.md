@@ -1,5 +1,7 @@
 # Dotfiles
 
+![CLI Screenshot](./static/screenshot-cli.png)
+
 ## installation
 
 ```sh
