@@ -1,7 +1,11 @@
 add_newline = false
 
 [character]   
-success_symbol = "🚀"  
+success_symbol = "🚀 "
+error_symbol = "🥺 "
+
+[git_branch]
+symbol = "🌍 "
 
 [package]
 disabled = true
