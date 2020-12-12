@@ -6,7 +6,10 @@ brew "starship"
 brew "git"
 brew "mas"
 brew "deno"
-
+brew "go"
+brew "asdf"
+brew "coreutils"
+brew "curl"
 
 cask "google-chrome"
 cask "visual-studio-code"
