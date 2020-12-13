@@ -10,6 +10,7 @@ brew "go"
 brew "asdf"
 brew "coreutils"
 brew "curl"
+brew "zsh"
 
 cask "google-chrome"
 cask "visual-studio-code"
