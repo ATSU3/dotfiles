@@ -11,6 +11,7 @@ brew "asdf"
 brew "coreutils"
 brew "curl"
 brew "zsh"
+brew "gh"
 
 cask "google-chrome"
 cask "visual-studio-code"
